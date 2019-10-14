@@ -1,0 +1,2 @@
+# razif
+Ethminer
